@@ -1,8 +1,5 @@
 title: Sara Shameen
-description: Embedded Systems | Firmware | Robotics
-theme: jekyll-theme-minimal
-
-github:
-  is_project_page: false
+description: Embedded Systems • Firmware Engineering • Robotics
+theme: jekyll-theme-cayman
 
 show_downloads: false
